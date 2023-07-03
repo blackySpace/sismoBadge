@@ -10,3 +10,4 @@ arch7ex
 andlemooon
 megaradix
 vakulastyle
+frolovfortune
